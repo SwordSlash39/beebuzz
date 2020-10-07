@@ -1,0 +1,17 @@
+{
+	"name": "BeeBuzz", 
+	"version": "1.20", 
+	"logo": "images/logo/bee_logo.png", 
+	"credits": {
+		"owner": "SwordSlash39"
+	}, 
+	"history": {
+		"1.00": "Basic Bee and Shop, No Movement added yet", 
+		"1.10": "Bees can now farm flowers for coins, and added smart movement for bees.", 
+		"1.11": "You can now buy additional flowers", 
+		"1.12": "Bees move at different speeds", 
+		"1.13": "There is a chance that a bee will be stuck on a flower. It usually takes a while for it to get un-stuck", 
+		"1.14": "Fixed flowers spawning on buttons/texts", 
+		"1.20": "New code feature! You can now redeem codes for prizes! (how to go to the page is a secret)"
+	}
+}
